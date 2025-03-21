@@ -7,7 +7,7 @@ Update the .env file to adjust the directory paths for model and data storage to
 
 *Endpoints*
 - http://localhost:11343 - Ollama API
-- http://localhost:1080 - Open WebUI
+- http://localhost:11080 - Open WebUI
 
 To start the stack simply run:
 ~~~
